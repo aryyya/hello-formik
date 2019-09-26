@@ -1,0 +1,38 @@
+.reg-form__container {
+  padding: 20px;
+  max-width: 350px;
+  margin: 50px auto;
+}
+
+.reg-form__row {
+  padding: 10px 0;
+}
+
+.reg-form__row:first-child {
+  padding-top: 0;
+}
+
+.reg-form__row:last-child {
+  padding-bottom: 0;
+}
+
+.reg-form__row {
+  width: 100%;
+}
+
+.reg-form__error-message {
+  color: red;
+  text-align: center;
+  font-size: 14px;
+}
+
+.reg-form__input {
+  width: 100%;
+}
+
+.reg-form__state {
+  font-size: 16px;
+  background-color: #eee;
+  padding: 10px;
+  margin: 0;
+}
